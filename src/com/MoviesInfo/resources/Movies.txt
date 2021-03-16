@@ -1,0 +1,8 @@
+1,Barfi,Romance,Hindi,23/4/2012,abc,3.5,2
+2,Avengers,Action,English,4/5/2012,bcd,4.5,20
+3,Three Idiots,Comedy,Hindi,6/4/2012,def,4,3
+4,Student of the Year,Drama,Hindi,3/10/2012,efg,2,1
+5,Talaash,Suspence,Hindi,12/12/2010,ghi,3,3
+6,Madagaskar,animation,english,4/5/2012,ijk,4,10
+7,Sparsh,Drama,Marathi,5/6/2012,klm,4,2
+8,Mi Shivaji,Drama,marathi,6/6/2012,mno,4.5,4
