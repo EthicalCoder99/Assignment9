@@ -10,9 +10,9 @@ import src.com.MoviesInfo.util.MoviesDAO;
 
 public class MoviesDbServices {
 
-    final private String username = "sentinel";
-    final private String password = "sweettooth";
-    final private String database = "javadb";
+    final private String username = "";
+    final private String password = "";
+    final private String database = "";
 
     private DbConnection dbConnection;
     private Connection conn;
